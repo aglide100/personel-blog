@@ -84,7 +84,7 @@ Container
 
 ## 4. preview
 
--> storybook
+storybook
 
 > https://aglide100.github.io/personel-blog/
 
